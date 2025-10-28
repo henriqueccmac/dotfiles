@@ -1,3 +1,2 @@
-# dotifles
-Just a backup of relevant workflow dotfiles.
-Simplicity is key!
+#### dotfiles
+A backup of relevant workflow dotfiles.
